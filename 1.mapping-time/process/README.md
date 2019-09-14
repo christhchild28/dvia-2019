@@ -7,3 +7,4 @@ In this concept, I express time as the "fading away" of the organic self while t
 
 This clock is therefore a representation of the passing away of the most distinctive representation of our identity as human beings (the face) as time moves on, whereas the baubles we acquire simultaneously increment and stand testament to our existence.
 
+

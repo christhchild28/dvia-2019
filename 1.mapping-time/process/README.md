@@ -7,18 +7,18 @@ In this concept, I express time as the "fading away" of the organic self while t
 
 This clock is therefore a representation of the passing away of the most distinctive representation of our identity as human beings (the face) as time moves on, whereas the material things we acquire simultaneously increment and stand testament to our existence.
 
-Hours: are represented by the number of earrings incrementing in 24-hour time
-Minutes: each jewel in the tiara increments to 60 as an hour approaches
-Seconds: each blink of the left eye represents the symbolic passing of an epoch. The diagonal pulsating line that disects the face represents milliseconds and the constant drumbeat of life's background noise.
+* Hours: are represented by the number of earrings incrementing in 24-hour time
+* Minutes: each jewel in the tiara increments to 60 as an hour approaches
+* Seconds: each blink of the left eye represents the symbolic passing of an epoch. The diagonal pulsating line that disects the face represents milliseconds and the constant drumbeat of life's background noise.
 
 A feature of the face "fades"/ "vanishes with each hour until at 0:00:00, nothing is visible but the material objects acquired at the end of the day: the diamond, the earrings, and the tiara. The "drumbeat of life also remains after the "passing away of the self".
 
 ## Second Concept: Time is Always Chasing a Moving Target
 In this variant, I address time in the alleogorical form of a robot (nodding again to the subtext of dissassociation from humanity in profit-driven cultures, in which human capital is interchangeable with "machinery"). The robot must hit a moving target (the red orb moves across the screen every minute) by the end of the day (at 0:00:00 the orb finally moves within range of the laser cannon so that it can be struck, resetting the clock and saving the robot from "termination"), recharing itself in each epoch (minute) in order to accomplish the task. The body of the robt has a display belt that indicates the number of hours left in the day to meet its fateful deadline. It's recharge indicator around the eyes track each of the 60 seconds that must pass before it can aim ita cannon at the Ominous red orb. 
 
-Hours: utility belt counts the number of hours left in the day
-Minutes: each cannon fire at the moving target/ the moving target's change in position
-Seconds: the recharge indicator around the robot's eye/ head
+* Hours: utility belt counts the number of hours left in the day
+* Minutes: each cannon fire at the moving target/ the moving target's change in position
+* Seconds: the recharge indicator around the robot's eye/ head
 
 
 ## Third Concept: Time is Dissonance (The Metronome)

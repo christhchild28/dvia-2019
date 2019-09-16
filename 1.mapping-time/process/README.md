@@ -13,7 +13,7 @@ Seconds: each blink of the left eye represents the symbolic passing of an epoch.
 
 A feature of the face "fades"/ "vanishes with each hour until at 0:00:00, nothing is visible but the material objects acquired at the end of the day: the diamond, the earrings, and the tiara. The "drumbeat of life also remains after the "passing away of the self".
 
-## Second Concept: Time is Always chasing a Moving Target
+## Second Concept: Time is Always Chasing a Moving Target
 In this variant, I address time in the alleogorical form of a robot (nodding again to the subtext of dissassociation from humanity in profit-driven cultures, in which human capital is interchangeable with "machinery"). The robot must hit a moving target (the red orb moves across the screen every minute) by the end of the day (at 0:00:00 the orb finally moves within range of the laser cannon so that it can be struck, resetting the clock and saving the robot from "termination"), recharing itself in each epoch (minute) in order to accomplish the task. The body of the robt has a display belt that indicates the number of hours left in the day to meet its fateful deadline. It's recharge indicator around the eyes track each of the 60 seconds that must pass before it can aim ita cannon at the Ominous red orb. 
 
 Hours: utility belt counts the number of hours left in the day
@@ -21,7 +21,7 @@ Minutes: each cannon fire at the moving target/ the moving target's change in po
 Seconds: the recharge indicator around the robot's eye/ head
 
 
-##Third Concept: Time is Dissonance (The Metronome)
+## Third Concept: Time is Dissonance (The Metronome)
 The axiom that "time is money" might map on to the nature of production in chaotic and interesting ways. If an American measures her time in terms of an "hourly rate" and the level of productivity needed to meet that goal, does this concept hold up when say, a Portuguese fisherman fails to hook a fish in two hours? (did he waste his time?), Does a Sicilian priest failing to make a convert on a Tuesday lose ground? Does the Chinese Philosophy student suffering from writers block miss opportunitties that can be quantified in monetary terms?
 
 There is a dialectical conflict between our need to capture and maximize value from our "time well spent" and the stochastic pattern of life itself. 

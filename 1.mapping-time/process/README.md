@@ -22,6 +22,8 @@ In this variant, I address time in the alleogorical form of a robot (nodding aga
 * Minutes: each cannon fire at the moving target/ the moving target's change in position
 * Seconds: the recharge indicator around the robot's eye/ head
 
+[![alt text](robot_probe.jpg)]
+[![alt text](robot_probe_00.jpg)]
 
 ## Third Concept: Time is Dissonance (The Metronome)
 The axiom that "time is money" might map on to the nature of production in chaotic and interesting ways. If an American measures her time in terms of an "hourly rate" and the level of productivity needed to meet that goal, does this concept hold up when say, a Portuguese fisherman fails to hook a fish in two hours? (did he waste his time?), Does a Sicilian priest failing to make a convert on a Tuesday lose ground? Does the Chinese Philosophy student suffering from writers block miss opportunitties that can be quantified in monetary terms?

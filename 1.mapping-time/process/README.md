@@ -13,6 +13,8 @@ This clock is therefore a representation of the passing away of the most distinc
 
 A feature of the face "fades"/ "vanishes with each hour until at 0:00:00, nothing is visible but the material objects acquired at the end of the day: the diamond, the earrings, and the tiara. The "drumbeat of life also remains after the "passing away of the self".
 
+[![alt text](RTAD_1.png)]
+
 ## Second Concept: Time is Always Chasing a Moving Target
 In this variant, I address time in the alleogorical form of a robot (nodding again to the subtext of dissassociation from humanity in profit-driven cultures, in which human capital is interchangeable with "machinery"). The robot must hit a moving target (the red orb moves across the screen every minute) by the end of the day (at 0:00:00 the orb finally moves within range of the laser cannon so that it can be struck, resetting the clock and saving the robot from "termination"), recharing itself in each epoch (minute) in order to accomplish the task. The body of the robt has a display belt that indicates the number of hours left in the day to meet its fateful deadline. It's recharge indicator around the eyes track each of the 60 seconds that must pass before it can aim ita cannon at the Ominous red orb. 
 
@@ -27,3 +29,5 @@ The axiom that "time is money" might map on to the nature of production in chaot
 There is a dialectical conflict between our need to capture and maximize value from our "time well spent" and the stochastic pattern of life itself. 
 
 This clock will be a "metronome" that tries to convert the chaotic rhythm of life into something that humans can bring order to. The central ellipse is randomly generated as a self-completing series of chords that appear in no particular order, which fill in red as the % of the day completes. On the left hand side of the ellipse is a matrix of randomly generating dots that track the number of seconds to 0:00:00. On teh right hand side is a self-sorting triangular arrangement of particles that gradually align perfectly as each hour progresses. At 0:00:00, the ellipse is complete and the dots on both sides are perfectly aligned. 
+
+[![alt text](RTAD_2.png)]

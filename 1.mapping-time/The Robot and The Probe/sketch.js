@@ -13,6 +13,7 @@ function setup() {
 
 
 function draw() {
+ var now = clock();
   noStroke();
   //Map the background color to the 24 hour cycle 
   if (com){
@@ -32,10 +33,10 @@ function draw() {
 
   
 //fetch current time
-  
-  var H = hour();
-  var M = minute();
-  var S = second(); 
+  //replace
+  var H = now.hours;
+  var M = now.min;
+  var S = now.sec; 
   var mappedS = map(S, 0,59, 0,360);
   
   var div = 90/24;// make this the belt on the robot

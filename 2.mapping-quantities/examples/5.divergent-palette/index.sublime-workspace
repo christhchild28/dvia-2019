@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"cheri",
+				"cheerio"
+			],
+			[
+				"ma",
+				"mapimg"
+			],
+			[
+				"com",
+				"companyNameText"
+			],
+			[
+				"td",
+				"tdTexts"
+			],
+			[
+				"found",
+				"foundAddress2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2019/package.json",
+		"/Users/christiantheodore/.npm/npm/6.12.0/package/package.json",
+		"/Users/christiantheodore/.npm/npm/4.6.1/package/package.json",
+		"/Users/christiantheodore/.npm/jsonfile/4.0.0/package/package.json",
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2019/1.mapping-time/The Robot and The Probe jittery variant/sketch.js",
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2019/1.mapping-time/The Robot and The Probe/sketch.js",
+		"/Users/christiantheodore/Desktop/p5jsfun-master/sketch.js",
+		"/Users/christiantheodore/Desktop/p5jsfun-master/p5.min.js",
+		"/Users/christiantheodore/Desktop/p5jsfun-master/p5.sound.min.js",
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2019/1.mapping-time/examples/3.color-clock/sketch.js",
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2019/1.mapping-time/project/The Robot and The Probe/sketch.js",
+		"/Users/christiantheodore/Desktop/The Robot and The Probe.js",
+		"/Users/christiantheodore/Desktop/RobotOrb",
+		"/Users/christiantheodore/Desktop/Code for the Face Clock.js",
+		"/Users/christiantheodore/Desktop/Robot_Orb.js",
+		"/Users/christiantheodore/Desktop/Code for the Face Clock",
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2019/1.mapping-time/examples/2.bar-clock/sketch.js",
+		"/Users/christiantheodore/Desktop/GrokkingAlgorithms_First Binary Search Algorithm.py",
+		"/Users/christiantheodore/in-g/server.js",
+		"/Users/christiantheodore/Desktop/index.js",
+		"/Users/christiantheodore/Desktop/TeachableMachineKNN_pt1.js",
+		"/Users/christiantheodore/Desktop/Eloquent Javascript/Chapter 2/even_under_12.js",
+		"/Users/christiantheodore/Desktop/Duckett_JsBook_MyFiles/c02/numeric-variable.html",
+		"/Users/christiantheodore/Desktop/Duckett_JsBook_MyFiles/c02/js/numeric-variable.js",
+		"/Users/christiantheodore/Desktop/c01/add-content.js",
+		"/Users/christiantheodore/Desktop/c01/add-content.html",
+		"/Users/christiantheodore/Desktop/c01/css/c01.css",
+		"/Users/christiantheodore/Desktop/c01/css/add-content.css",
+		"/Users/christiantheodore/Desktop/spiral.js",
+		"/Users/christiantheodore/Downloads/facebook-Solliloquist (1)/saved_items/your_saved_items.html",
+		"/Users/christiantheodore/Desktop/var atmospheric.js",
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2018-master/package.json",
+		"/Users/christiantheodore/Downloads/CH7_BBOD_OnPace.twbx",
+		"/Users/christiantheodore/Desktop/Week 5 Assigment_Pre_Guidance.js",
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2018-master/2.mapping-quantities/examples/2.table-from-csv/DS_Assignment_4_Walkthru_Part_2.js",
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2018-master/2.mapping-quantities/examples/2.table-from-csv/DS_Assignment_4_Walkthru_Part_1.js",
+		"/Users/christiantheodore/Desktop/Data Viz Info and Aeasthetics/dvia-2018-master/2.mapping-quantities/examples/2.table-from-csv/sketch.js",
+		"/Users/christiantheodore/Desktop/Data Structures/DS_Weekly Assigment3_Pre-Explanation.js",
+		"/Users/christiantheodore/Desktop/Data Structures/Data Structures_Assignment 2.js",
+		"/Users/christiantheodore/Documents/GitHub/dvia-2018/1.mapping-time/students/pm/christian/process/Orbit_Clock.js",
+		"/Users/christiantheodore/Documents/GitHub/dvia-2018/1.mapping-time/students/am/felix/suncalc.js",
+		"/Users/christiantheodore/Desktop/Clock_Test.js",
+		"/Users/christiantheodore/Downloads/p5 (1)/empty-example/sketch.js",
+		"/Users/christiantheodore/Downloads/p5 (1)/p5.js",
+		"/Users/christiantheodore/Desktop/Data Structures/DS_Week2Assignment_Walkthru.js",
+		"/Users/christiantheodore/Desktop/Data Structures/Scrape_Indeed_Example.js",
+		"/Users/christiantheodore/Desktop/Data Structures/Data Structures Assigment/Data Structures Assignment 1_Request File Annotated.js",
+		"/Users/christiantheodore/Desktop/DataStructures_Assignment 2.js",
+		"/Users/christiantheodore/Desktop/Node JS request_DS_A1",
+		"/Users/christiantheodore/Desktop/iteration.js",
+		"/Users/christiantheodore/Desktop/p5_tutorial_variables_sketch.js",
+		"/Users/christiantheodore/Downloads/p5/empty-example/sketch.js",
+		"/Users/christiantheodore/Desktop/WBB Sat Python/WBB_PYTHON_FIZZBUZZ.py",
+		"/Users/christiantheodore/Desktop/WBB_PYTHON_WHILE_LOOPS.py",
+		"/Users/christiantheodore/Desktop/WBB_PYTHON_FIZZBUZZ.py",
+		"/Users/christiantheodore/Desktop/Print_Alice.py",
+		"/Users/christiantheodore/Desktop/Spotify Internship/Spotify_Qs.py",
+		"/Users/christiantheodore/Desktop/WBB_PYTHON_RockPaperScis.py",
+		"/Users/christiantheodore/Desktop/WBB_PYTHON_CONDITIONALS.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

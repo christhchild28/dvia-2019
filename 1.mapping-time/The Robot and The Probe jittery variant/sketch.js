@@ -1,4 +1,4 @@
-a//The Robot and The Probe
+//The Robot and The Probe
 
 //next week- do a calendar clock and a day of week/ phase of moon/ etc
 // 6 code sketches- 3 on calendar and 3 on day/ moon phase, etc
@@ -17,7 +17,7 @@ function draw() {
  var now = clock();
   noStroke();
   //Map the background color to the 24 hour cycle 
-  if (com){
+   if (com){
      background(random(255), random(255), random(255));
       for (var j = 0; j < 300; j++){
         var x = random(0,720);
@@ -27,6 +27,16 @@ function draw() {
       }
       com = false;
     }
+  // if (com){
+  //    background(random(255), random(255), random(255));
+  //     for (var j = 0; j < 300; j++){
+  //       var x = random(0,720);
+  //       var y = random(0,480);
+  //       fill(0);
+  //       ellipse(x,y,1,1);
+  //     }
+  //     com = false;
+  //   }
 
   //Clear path
   // fill(200);
@@ -37,7 +47,10 @@ function draw() {
   //replace
   var H = now.hours;
   var M = now.min;
-  var S = now.sec; 
+  var S = now.sec;
+  var D = now.day;
+  var Mth = month;
+  var Y = year;
   var mappedS = map(S, 0,59, 0,360);
   
   var div = 90/24;// make this the belt on the robot
@@ -98,28 +111,16 @@ function draw() {
   ellipse(305, 162, 3, 3);    // Small eye 3
   
  // Probe
-var moved = M*(width + 85)/60; 
-fill(205,10,20);
-ellipse(width-moved,50, 45+sin(frameCount), 45); //calc x and y based on mins
-fill(255);
-ellipse(width-moved, 50, 14+sin(frameCount), 14);
-fill(0);
-ellipse(width-moved, 50, 3+sin(frameCount), 3);
-fill(153);
-ellipse(width-moved, 50, 5+sin(frameCount), 5);
-ellipse(width-moved, 50, 4+sin(frameCount), 4);
-ellipse(width-moved, 50, 3+sin(frameCount), 3); //+sin(frameCount)
-
 // ----------------------------------------------------------------------------------------------------------
-// fill(205,10,20);
-// ellipse(x+12, y, 45, 45); //calc x and y based on mins
-// fill(255);
-// ellipse(x+24, y-6, 14, 14);
-// fill(0);
-// ellipse(x+24, y-6, 3, 3);
-// fill(153);
-// ellipse(x, y-8, 5, 5);
-// ellipse(x+30, y-26, 4, 4);
-// ellipse(x+41, y+6, 3, 3);
+fill(205,10,20);
+ellipse(x+12, y, 45, 45); //calc x and y based on mins
+fill(255);
+ellipse(x+24, y-6, 14, 14);
+fill(0);
+ellipse(x+24, y-6, 3, 3);
+fill(153);
+ellipse(x, y-8, 5, 5);
+ellipse(x+30, y-26, 4, 4);
+ellipse(x+41, y+6, 3, 3);
 
 }

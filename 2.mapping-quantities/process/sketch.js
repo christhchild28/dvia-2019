@@ -1,3 +1,6 @@
+//UseThis
+
+
 var table
 
 function preload(){
@@ -5,8 +8,7 @@ function preload(){
 }
 
 function setup(){
-  createCanvas(3900, 2250)
-  //createCanvas(3900, 250)
+  createCanvas(3900, 250)
   background(127)
   noStroke()
   textAlign(CENTER)
@@ -29,6 +31,9 @@ function setup(){
     highest = Math.max(sum, highest)
   }
 
+  console.log(years)
+  console.log(sum)
+
   // draw a box for each year and set its color based on the total number of tests
   var x = 100
   var y = 100
@@ -40,8 +45,7 @@ function setup(){
     // draw the box
     var color = palette.colorForValue(totals[i])
     fill(color)
-    rect(x, y, year, year)
-    //rect(x, y, dim, dim)
+    rect(x, y, dim, dim)
 
     // draw the year number on top
     fill('white')

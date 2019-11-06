@@ -4,6 +4,8 @@ var underground
 function preload(){
   atmospheric = loadJSON('data/atmospheric.json')
   underground = loadJSON('data/underground.json')
+  console.log(preload)
+
 }
 
 function setup(){
@@ -30,7 +32,7 @@ function setup(){
 
   // draw country name labels on the left edge of the table
   textStyle(BOLD)
-  textAlign(RIGHT)
+  //textAlign(RIGHT)
   for (var country in data.tests){
     text(country, x-colWidth, y)
     y += rowHeight

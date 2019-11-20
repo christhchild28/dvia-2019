@@ -47,11 +47,11 @@ function setup() {
   magnitudeMax = ceil(columnMax(table, "mag")/magnitudeInterval) * magnitudeInterval;
 
   // the time range should start at 00:00:00 on the first day and end at 23:59:59 on the last day
-  timeMin = columnMin(table, 'timestamp')
+  timeMin = columnMin(table, 'timestamp') //
   timeMin = moment(timeMin).startOf('day')
 
-  timeMax = columnMax(table, 'timestamp')
-  timeMax = moment(timeMax).endOf('day')
+  timeMax = columnMax(table, 'timestamp') // find out when the latest event happened
+  timeMax = moment(timeMax).endOf('day') //
 
   //draw the title for the current plot
   fill(0);
@@ -81,6 +81,9 @@ function drawDataPoints(){
     //map the x position to the time
     var dayTime = moment(times[i])
     var x = map(dayTime,timeMin, timeMax, x_left, x_right);
+// alternatively, you can set this to the day the event occured on
+    //dayTime = 
+
 
     // map the y position to magnitude
     var y = map(magnitudes[i],magnitudeMin, magnitudeMax, y_bot, y_top);

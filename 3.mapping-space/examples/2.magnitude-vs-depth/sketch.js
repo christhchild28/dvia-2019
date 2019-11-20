@@ -67,12 +67,12 @@ function columnValues(tableObject, columnName){
   // get the array of strings in the specified column
   var colStrings = tableObject.getColumn(columnName)
   // convert to a list of numbers by running each element through the `float` function
-  return _.map(colStrings, _.toNumber)
+  return _.map(colStrings, _.toNumber) // this .map function is not the same as map() function
 }
 
 // get the maximum value within a column
 function columnMax(tableObject, columnName){
-    return _.max(columnValues(tableObject, columnName))
+    return _.max(columnValues(tableObject, columnName)) // the underscore character: 
 }
 
 // get the minimum value within a column

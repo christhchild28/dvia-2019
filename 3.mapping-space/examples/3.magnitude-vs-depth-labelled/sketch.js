@@ -12,8 +12,8 @@ var depths;
 var magnitudeMin, magnitudeMax;
 var depthMin, depthMax;
 
-var magnitudeInterval = 1.0;
-var depthInterval = 50.0;
+var magnitudeInterval = 1.0; // tells the program to draw the y-axis in steps of 1. you can change this to be how ever many steps you like
+var depthInterval = 50.0; //sets the steps to be 50
 
 // table as the data set
 var table;
@@ -47,7 +47,7 @@ function setup() {
 
   // get minimum and maximum values for both (rounding up the max value to leave a visual margin at the top)
   magnitudeMin = 0.0;
-  magnitudeMax = ceil(columnMax(table, "mag")/magnitudeInterval) * magnitudeInterval;
+  magnitudeMax = ceil(columnMax(table, "mag")/magnitudeInterval) * magnitudeInterval; // use ceil() or floor() to make a choice about how you want to round your floating point numbers
 
   depthMin = 0.0;
   depthMax = columnMax(table, "depth");

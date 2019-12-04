@@ -1,3 +1,5 @@
+//Mapbox Map//
+
 
 var mapimg;
 

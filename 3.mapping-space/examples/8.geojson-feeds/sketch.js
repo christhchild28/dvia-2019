@@ -6,7 +6,7 @@ function preload() {
 
 function setup() {
   createCanvas(2200, 1800);
-  background(255)
+  background(0)
 
   // create a color scale we can use for assigning colors based on magnitude
   var magScale = chroma.scale('YlOrRd').mode('lch').domain([0, 10])
@@ -14,9 +14,9 @@ function setup() {
   // convert the raw geoJSON feed we loaded from the USGS into a plain array of objects
   var quakes = unpackJSON(jsonData)
   
-  /* try uncommenting the next line and sorting by different attribute */
-  // quakes = sortQuakes(quakes, '-depth') // '-depth' means sort from deepest to shallowest
-  // quakes = sortQuakes(quakes, 'mag') // 'mag' means sort from smallest to largest
+  /* try uncommenting one of the next lines and sorting by different attribute */
+  // quakes = sortQuakes(quakes, 'depth') // '-depth' means sort from deepest to shallowest
+  // quakes = sortQuakes(quakes, '-mag') // 'mag' means sort from smallest to largest
 
   print(`${quakes.length} seismic events found`)
   print(`largest magnitude: ${maxValue(quakes, 'mag')}`)
@@ -33,15 +33,15 @@ function setup() {
     circle(0,0, quake.mag * 4)
 
     // draw a line for the depth
-    stroke(0)
+    stroke(255)
     strokeWeight(2)
-    line(20,0, 20+quake.depth/30, 0)
+    line(25,10, 25+quake.depth/5, 10)
 
     // typeset the place name
     noStroke()
-    fill(200)
+    fill(130)
     textStyle(ITALIC)
-    text(quake.place, 50, 4)
+    text(quake.place, 25, 4)
 
     // use translate to change position before looping to draw the next quake
     var maxRows = 50
